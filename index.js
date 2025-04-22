@@ -20,7 +20,7 @@ async function read() {
 }
 async function update(text) {
   await writeFile(path, text);
-  console.log("Version updated: ", text);
+  console.log("Version updated to: ", text);
 }
 
 async function gitManager(message) {
