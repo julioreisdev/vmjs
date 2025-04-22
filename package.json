@@ -1,0 +1,59 @@
+{
+  "name": "vmjs-semver",
+  "version": "1.0.0",
+  "description": "Simple Version Manager",
+  "main": "index.js",
+  "bin": {
+    "vmjs": "./index.js"
+  },
+  "scripts": {
+    "test": "vmjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioreisdev/vmjs.git"
+  },
+  "keywords": [
+    "semver",
+    "versionamento",
+    "git",
+    "controle de versões",
+    "CLI",
+    "ferramenta de versão",
+    "npm",
+    "atualização de versão",
+    "git commit",
+    "git init",
+    "automação",
+    "semver CLI",
+    "version manager",
+    "versão do projeto",
+    "incremento de versão",
+    "ferramenta Git",
+    "commits automáticos",
+    "controle de versão automatizado",
+    "node.js",
+    "script de versão",
+    "tooling",
+    "automatização de Git",
+    "versioning",
+    "version control",
+    "git automation",
+    "git commit",
+    "version management",
+    "versioning tool",
+    "git tool",
+    "version update",
+    "automated commits",
+    "git init automation",
+    "node version manager",
+    "cli tool",
+    "git version"
+  ],
+  "author": "Júlio Cezar Reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julioreisdev/vmjs/issues"
+  },
+  "homepage": "https://github.com/julioreisdev/vmjs#readme"
+}
