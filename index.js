@@ -51,7 +51,7 @@ async function minor() {
   const version = res.split(".");
   const major = parseInt(version[0]);
   const minor = parseInt(version[1]);
-  gitManager(`Version ${major}.${minor + 1}.0.0`);
+  gitManager(`Version ${major}.${minor + 1}.0`);
   return `${major}.${minor + 1}.0`;
 }
 async function patch() {
